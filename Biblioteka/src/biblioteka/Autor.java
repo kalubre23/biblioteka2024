@@ -4,6 +4,8 @@ import java.util.Objects;
 
 public class Autor {
 
+	//Dodat komentar na pocetku Autora na GitHub-u
+
 	private String ime;
 	private String prezime;
 	
