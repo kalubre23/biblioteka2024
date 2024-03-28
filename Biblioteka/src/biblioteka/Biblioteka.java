@@ -6,10 +6,12 @@ import java.util.List;
 import biblioteka.interfejs.BibliotekaInterfejs;
 
 public class Biblioteka implements BibliotekaInterfejs {
-
-	List<Knjiga> knjige = new ArrayList<>();
 	
-	//Dodao sam i ovaj komentar ode da izazove konflikt isto
+	//Ova klasa predstavlja Biblioteku u kojoj se mogu dodati, brisati, pretraziti knjige...
+	//aaaaaa
+	
+	
+	List<Knjiga> knjige = new ArrayList<>();
 	
 	
 	@Override
